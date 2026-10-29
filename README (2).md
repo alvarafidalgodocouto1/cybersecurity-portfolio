@@ -1,6 +1,5 @@
 # Cyber Security 101 — Section 1: Start Your Cyber Security Journey
 
-**Progress:** Completed, according to the learner.
 
 This section introduces offensive security, defensive security, and search skills. It builds on Pre Security and starts to connect basic concepts with the workflows used by security professionals.
 
