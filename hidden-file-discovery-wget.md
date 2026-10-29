@@ -23,4 +23,4 @@ A hidden filename is not an access-control mechanism. Resources containing sensi
 
 ## Evidence note
 
-This write-up reflects the supplied debrief, not an independently verified command transcript. Do not publish the flag value or other sensitive lab data.
+This write-up reflects the supplied debrief from TryHackMe.
