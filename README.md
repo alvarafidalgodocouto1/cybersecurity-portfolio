@@ -69,18 +69,12 @@ Each module explains:
 - [Hidden file discovery and HTTP retrieval](evidence/hidden-file-discovery-wget.md)
 - [Apache access log analysis](evidence/apache-access-log-analysis.md)
 
-These two reports are based on debriefs provided from completed exercises. Other examples in the module notes are learning examples and are not claims that every command was executed in a lab.
+These two reports are based on debriefs provided from completed exercises. 
 
 ## Official pathway references
 
 - [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity)
 - [TryHackMe Cyber Security 101](https://tryhackme.com/path/outline/cybersecurity101)
-- [TryHackMe Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-
-## Responsible practice
-
-All practical testing should remain within authorised training environments. Do not publish credentials, access tokens, private data, or flag values. Keep evidence accurate and distinguish observed output from general explanations.
-
----
+- [TryHackMe Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals) 
 
 *This portfolio will grow as I progress through Cyber Security 101 and complete additional practical labs.*
