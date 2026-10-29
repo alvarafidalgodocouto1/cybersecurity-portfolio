@@ -1,6 +1,6 @@
 # Cyber Security 101 — Section 2: Linux Fundamentals
 
-**Progress:** Parts 1, 2, and 3 completed, according to the learner.
+TryHackMe : Cybersecurity 101 Path
 
 Linux Fundamentals builds command-line skills used in administration, security tooling, host investigation, and log analysis.
 
